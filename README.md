@@ -15,17 +15,16 @@ dataframe.to_csv('reviews.csv', sep=',', index=False)
 ```
 ### Algorithms performed
 #### Sentiment analysis:    
-1. [Logistic Regression](https://github.com/mandeep147/Amazon-Product-Recommender-System/tree/master/Logistic%20Regression%20)    
-2. [Naive Bayes - Multinomial and Bernoulli](https://github.com/mandeep147/Amazon-Product-Recommender-System/tree/master/Naive%20Bayes)    
-3. [LSTM](https://github.com/mandeep147/Amazon-Product-Recommender-System/tree/master/LSTM)    
+1. [Logistic Regression](https://github.com/ayushete02/Amazon-Product-Recommender-System/tree/main/Logistic%20Regression)    
+2. [Naive Bayes - Multinomial and Bernoulli](https://github.com/ayushete02/Amazon-Product-Recommender-System/tree/main/Naive%20Bayes)    
+3. [LSTM](https://github.com/ayushete02/Amazon-Product-Recommender-System/tree/main/LSTM)    
     
 #### Recommender system:    
-k-Nearest Neighbors is used to perform [item-based collaborative filtering](https://github.com/mandeep147/Amazon-Product-Recommender-System/tree/master/Recommender%20System)    
+k-Nearest Neighbors is used to perform [item-based collaborative filtering](https://github.com/ayushete02/Amazon-Product-Recommender-System/tree/main/Recommender%20System)    
     
 ### Contibutions    
-1. Sowmya Dharanipragada - [Feature Engineering, Support Vector Machines (SVM), Logistic Regression, Rating and upvote prediction](https://github.com/mandeep147/Amazon-Product-Recommender-System/tree/master/Logistic%20Regression%20)    
-2. Anushree Sinha - [Feature Engineering, K means clustering, Sentiment Intensity Analyzer, LSTM](https://github.com/mandeep147/Amazon-Product-Recommender-System/tree/master/LSTM)    
-3. Mandeep Kaur - [Feature Engineering, Naive Bayes - Multinomial, Naive Bayes - Bernoulli, Logistic Regression](https://github.com/mandeep147/Amazon-Product-Recommender-System/tree/master/Naive%20Bayes), and [Recommendation system](https://github.com/mandeep147/Amazon-Product-Recommender-System/tree/master/Recommender%20System)
+1. Khushi Gaidhane
+2. Ayush Shete 
         
 ### References:    
 1. [J. McAuley and J. Leskovec. Hidden factors and hidden topics: understanding rating dimensions with review text. RecSys, 2013.](http://i.stanford.edu/~julian/pdfs/recsys13.pdf)    
